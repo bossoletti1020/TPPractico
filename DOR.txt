@@ -1,0 +1,4 @@
+-La tarea debe ser abordada y terminada dentro del sprint sin tener dependencias.
+-La tarea debe tener estimación de complejidad.
+-Los detalles deben ser claros para que cualquier miembro del equipo pueda entenderlo.
+-Los códigos deben estar ordenados y dentados
