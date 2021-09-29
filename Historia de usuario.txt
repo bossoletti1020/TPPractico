@@ -1,0 +1,5 @@
+-Entrar en la página
+-Entrar en selección de Contacto
+-Rellenar las casillas (Dirección de correo del usuario, mensaje y asunto)
+-Tocar en el botón de enviar.
+
